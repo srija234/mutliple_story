@@ -1,0 +1,42 @@
+body{
+    background: url("https://tse1.mm.bing.net/th?id=OIP.pznXfrZWP_Z5sUBwKSlKKgHaEo&pid=Api&rs=1&c=1&qlt=95&w=196&h=122");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 60%;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px whitesmoke;
+    opacity: 0.2;
+}
+
+
+.main{
+    display: flex;
+    justify-content:space-evenly;
+    border: 5px solid black;
+    background: linear-gradient(white,red);
+    border-radius: 0% 0% 0% 0%;
+}
+
+
+h3{
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+
+h1{
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px brown;
+}
+
+
+img:hover{
+    opacity: 1;
+}
